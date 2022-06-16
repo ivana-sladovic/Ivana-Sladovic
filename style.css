@@ -1,0 +1,169 @@
+body {
+    background-color: #9daf89;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#indexBody {
+    background-image: url(photos/background1.jpg);
+    background-color: #9daf89;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.hello p {
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    margin-top: 15vh;
+}
+
+.hello {
+    background-color: rgba(255, 255, 255, 0.733);
+    width: 60vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    border-radius: 25px;
+}
+
+.about {
+    background-color: rgba(255, 255, 255, 0.432);
+    width: 70vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    border-radius: 25px;
+}
+
+.about p {
+    text-align: left;
+    padding-top: 5vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    margin-top: 10vh;
+}
+
+.about a {
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30vw;
+}
+
+#ImagesAbout {
+    width: 400px;
+}
+
+.FoodMakeupNails {
+    text-align: center;
+}
+
+h2 {
+    font-size: 3.5vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#font {
+    width: 200px;
+}
+
+#krivulja {
+    width: 225px;
+}
+
+#jednostavni {
+    width: 250px;
+}
+
+#slozeni1 {
+    width: 400px;
+}
+
+#slozeni2 {
+    width: 250px;
+}
+
+#retusiranje1 {
+    width: 300px;
+}
+
+#retusiranje2 {
+    width: 430px;
+}
+
+#koloriranje {
+    width: 600px;
+}
+
+#koloriranje1 {
+    width: 200px;
+}
+
+#fotomontaza {
+    width: 620px;
+}
+
+#kinemagraf {
+    width: 620px;
+}
+
+#obrada {
+    width: 620px;   
+}
+
+#projektni1 {
+    width: 620px;
+}
+
+#projektni2 {
+    width: 750px;
+}
+
+.vjezbe {
+    margin-left: 2vw;
+}
+
+.video {
+    text-align: center;
+    margin-top: 7vh;
+}
+
+.tehnike {
+    background-color: rgba(255, 255, 255, 0.432);
+    width: 75vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    border-radius: 25px;
+}
+
+.tehnike p {
+    text-align: left;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
